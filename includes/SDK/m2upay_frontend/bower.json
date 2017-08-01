@@ -1,0 +1,21 @@
+{
+  "name": "m2upay",
+  "authors": [
+    "Melvin Mun <melvin.mun@maybank.com>"
+  ],
+  "description": "M2uPay node module enable developer to integrate M2u payment with seamless experience",
+  "main": "m2upay_frontend.js",
+  "keywords": [
+    "m2upay"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
